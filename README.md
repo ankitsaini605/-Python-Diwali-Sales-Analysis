@@ -48,9 +48,9 @@ This analysis can help businesses optimize marketing strategies, personalize off
 
 🔹 Project Structure
 
-• Diwali_Sales_Analysis.ipynb → Jupyter Notebook with full analysis & visualizations
-
 • Diwali Sales Data.csv → Dataset used for analysis
+
+• Diwali_Sales_Analysis.ipynb → Jupyter Notebook with full analysis & visualizations
 
 • README.md → Project documentation
 
