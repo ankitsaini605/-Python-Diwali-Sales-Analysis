@@ -63,5 +63,5 @@ This analysis can help businesses optimize marketing strategies, personalize off
 ✔️ Demonstrated real‑world application of Python for analytics
 
 🔗 Connect with Me
-
-🐙 [GitHub](https://github.com/ankitsaini605) 🔗 [LinkedIn](https://linkedin.com/in/ankitsaini605) 🌐 [Portfolio]()  
+**Ankit Saini**
+🐙 [GitHub](https://github.com/ankitsaini605) 🔗 [LinkedIn](https://linkedin.com/in/ankitsaini605) 🌐 [Portfolio](https://ankitsaini605.github.io/) 📧 [Email](https://ankitsaini24082002@gmail.com)  
