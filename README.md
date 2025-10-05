@@ -1,14 +1,10 @@
 📊 Diwali Sales Analysis – Python Project
 
-
 🔹 Overview
-
 
 This project is a Python‑based sales analysis on Diwali sales data. The goal was to perform exploratory data analysis (EDA), clean and transform raw data, and uncover actionable business insights about customer behavior, demographics, and purchasing patterns.
 
-
 🔹 Objectives
-
 
 • Clean and preprocess raw sales data (handling nulls, dropping irrelevant columns, type conversions).
 
@@ -20,9 +16,7 @@ This project is a Python‑based sales analysis on Diwali sales data. The goal w
 
 • Derive business insights to improve customer targeting and sales strategies.
 
-
 🔹 Tech Stack
-
 
 • Python (Pandas, NumPy) – Data cleaning & manipulation
 
@@ -32,9 +26,7 @@ This project is a Python‑based sales analysis on Diwali sales data. The goal w
 
 • CSV Dataset – Diwali Sales Data
 
-
 🔹 Key Analysis & Insights
-
 
 • Gender Analysis: Women contributed more to overall sales compared to men.
 
@@ -48,17 +40,13 @@ This project is a Python‑based sales analysis on Diwali sales data. The goal w
 
 • Product Categories: Food, Clothing, and Electronics were the most popular categories.
 
-
 🔹 Conclusion
-
 
 Married women aged 26–35 years from Uttar Pradesh, Maharashtra, and Karnataka working in IT, Healthcare, and Aviation are more likely to buy products from Food, Clothing, and Electronics categories.
 
 This analysis can help businesses optimize marketing strategies, personalize offers, and boost sales during festive seasons.
 
-
 🔹 Project Structure
-
 
 • Diwali_Sales_Analysis.ipynb → Jupyter Notebook with full analysis & visualizations
 
@@ -66,9 +54,7 @@ This analysis can help businesses optimize marketing strategies, personalize off
 
 • README.md → Project documentation
 
-
 🔹 Outcomes
-
 
 ✔️ Hands‑on experience in data cleaning, preprocessing, and visualization
 
@@ -76,8 +62,6 @@ This analysis can help businesses optimize marketing strategies, personalize off
 
 ✔️ Demonstrated real‑world application of Python for analytics
 
-
 🔗 Connect with Me
-
 
 🐙 GitHub: github.com/ankitsaini605 🔗 LinkedIn: linkedin.com/in/ankitsaini605 🌐 Portfolio: 
