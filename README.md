@@ -64,4 +64,4 @@ This analysis can help businesses optimize marketing strategies, personalize off
 
 🔗 Connect with Me
 
-🐙 GitHub: github.com/ankitsaini605 🔗 LinkedIn: linkedin.com/in/ankitsaini605 🌐 Portfolio: 
+🐙 [GitHub](https://github.com/ankitsaini605) 🔗 [LinkedIn](https://linkedin.com/in/ankitsaini605) 🌐 [Portfolio]()  
