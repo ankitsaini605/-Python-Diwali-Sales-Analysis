@@ -7,9 +7,13 @@ This project is a Python‑based sales analysis on Diwali sales data. The goal w
 🔹 Objectives
 
 • Clean and preprocess raw sales data (handling nulls, dropping irrelevant columns, type conversions).
+
 • Perform exploratory data analysis using Pandas, NumPy, Matplotlib, and Seaborn.
+
 • Visualize customer trends across gender, age groups, states, marital status, occupation, and product categories.
+
 • Identify top contributing states, product categories, and customer segments.
+
 • Derive business insights to improve customer targeting and sales strategies.
 
 🔹 Tech Stack
